@@ -27,7 +27,7 @@ An AI-powered SQL chatbot that converts natural language questions into SQL quer
 
 ### 🗑️ Clear Chat History
 
-![Clear History](image/clearchat.png)
+![Clear History](image/clear-history.png)
 
 ---
 
