@@ -2,11 +2,6 @@
 
 An AI-powered SQL chatbot that converts natural language questions into SQL queries using **Google Gemini AI**, executes them on an **SQLite** database, and displays interactive results with data visualizations.
 
----
-
-## 🎥 Demo
-
-> Add your demo video here after uploading it to GitHub.
 
 ---
 
@@ -14,25 +9,25 @@ An AI-powered SQL chatbot that converts natural language questions into SQL quer
 
 ### 🏠 Home Page
 
-![Home](images/home.png)
+![Home](image/home.png)
 
 ---
 
 ### 📊 Query Result & Visualization
 
-![Visualization](images/res-vis.png)
+![Visualization](image/res-vis.png)
 
 ---
 
 ### 📝 Chat History
 
-![History](images/history.png)
+![History](image/history.png)
 
 ---
 
 ### 🗑️ Clear Chat History
 
-![Clear History](images/clearchat.png)
+![Clear History](image/clearchat.png)
 
 ---
 
